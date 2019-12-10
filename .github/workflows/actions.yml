@@ -43,7 +43,7 @@ jobs:
       uses: Azure/functions-action@v1
       id: fa
       with:
-        app-name: helloworld
+        app-name: hacker6helloworld
         # If your function app project is not located in your repository's root
         # Please consider prefixing the project path in this package parameter
         package: './output'
